@@ -24,12 +24,5 @@ public class TileController : Abs_ItemController
         _startCell = startCell;
     }
     
-    public override void Remove()
-    {
-        base.Remove();
-        
-        Destroy(gameObject);
-    }
-    
     #endregion
 }
