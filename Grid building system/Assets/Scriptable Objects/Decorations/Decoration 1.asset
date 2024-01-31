@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9978c38a36df86a40b778545c64d20ad, type: 3}
+  m_Name: Decoration 1
+  m_EditorClassIdentifier: 
+  _name: Decoration 1
+  _spriteIcon: {fileID: 0}
+  _prefab: {fileID: 6904965253842372383, guid: 0667c43568123fa418629ad51227f64a, type: 3}
+  _previewPrefab: {fileID: 8685304821649159842, guid: e04c27887fc505a49898f9ed6977c1e8,
+    type: 3}
